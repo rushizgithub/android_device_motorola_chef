@@ -10,13 +10,13 @@ GPU     | Adreno 509
 Memory  | 4GB
 Shipped Android Version | 8.1 (Oreo)
 Storage | 64GB
-Battery | 3000 mAh
-Dimensions | 156.5 x 76.5 x 6.75 mm
-Display | 1080 x 2160 pixels, 6.0" Super AMOLED
-Rear Camera  | 12 MP (f/1.7) + 5 MP (f/2.2), (PDAF, dual pixel)
-Front Camera | 8 MP (f/2.2)
+Battery | 5000 mAh
+Dimensions | 156 x 76 x 8.98 mm
+Display | 1080 x 2246 pixels, 6.2" IPS LCD
+Rear Camera  | 16 MP (f/1.8) + 5 MP (f/2.2), (PDAF, dual pixel)
+Front Camera | 12 MP (f/2.2)
 
-![Device Picture](https://i-cdn.phonearena.com//images/phones/72220-xlarge/Motorola-Moto-Z3-Play-8.jpg)
+![Device Picture](https://i-cdn.phonearena.com//images/phones/73027-xlarge/Motorola-One-Power-5.jpg)
 
 ### Kernel Source
 Check here: https://github.com/ixmoe/android_kernel_motorola_sdm636
