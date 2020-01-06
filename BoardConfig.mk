@@ -117,6 +117,8 @@ TW_EXCLUDE_DEFAULT_USB_INIT := true
 TARGET_RECOVERY_DEVICE_MODULES += android.hardware.boot@1.0
 TW_USE_TOOLBOX := true
 TW_EXCLUDE_TWRPAPP := true
+TWRP_DEVICE_VERSION := 1
+
 # MTP will not work until we update it to support ffs
 TW_EXCLUDE_MTP := true
 
