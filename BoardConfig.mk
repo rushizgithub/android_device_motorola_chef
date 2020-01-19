@@ -115,9 +115,6 @@ TW_USE_TOOLBOX := true
 TW_EXCLUDE_TWRPAPP := true
 TWRP_DEVICE_VERSION := 1
 
-# MTP will not work until we update it to support ffs
-TW_EXCLUDE_MTP := true
-
 # Asian region languages
 TW_EXTRA_LANGUAGES := true
 # TW_DEFAULT_LANGUAGE := zh_CN
