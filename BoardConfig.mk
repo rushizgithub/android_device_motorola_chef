@@ -25,7 +25,7 @@
 
 SHRP_DEVICE_CODE := chef
 SHRP_PATH := device/motorola/$(SHRP_DEVICE_CODE)
-SHRP_MAINTAINER := Rushi Ranpise
+SHRP_MAINTAINER := "Rushi Ranpise"
 SHRP_REC_TYPE := Normal
 SHRP_DEVICE_TYPE := A/B
 SHRP_AB := true
