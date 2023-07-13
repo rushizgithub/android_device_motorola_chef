@@ -29,7 +29,6 @@ SHRP_MAINTAINER := rushiranpise
 SHRP_REC_TYPE := Normal
 SHRP_DEVICE_TYPE := A/B
 SHRP_AB := true
-SHRP_EDL_MODE := 1
 SHRP_FLASH := 1
 SHRP_NOTCH := true
 INC_IN_REC_ADDON_1 := true
