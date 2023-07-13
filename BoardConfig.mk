@@ -23,6 +23,27 @@
 # *not* include it on all devices, so it is safe even with hardware-specific
 # components.
 
+SHRP_DEVICE_CODE := chef
+SHRP_PATH := device/motorola/$(SHRP_DEVICE_CODE)
+SHRP_MAINTAINER := Rushi Ranpise
+SHRP_REC_TYPE := Normal
+SHRP_DEVICE_TYPE := A/B
+SHRP_AB := true
+SHRP_EDL_MODE := 1
+SHRP_FLASH := 1
+SHRP_NOTCH := true
+SHRP_DARK := true
+SHRP_SKIP_DEFAULT_ADDON_1 := true
+INC_IN_REC_ADDON_1 := true
+SHRP_SKIP_DEFAULT_ADDON_2 := true
+INC_IN_REC_ADDON_2 := true
+SHRP_SKIP_DEFAULT_ADDON_3 := true
+INC_IN_REC_ADDON_3 := true
+SHRP_SKIP_DEFAULT_ADDON_4 := true
+INC_IN_REC_ADDON_4 := true
+INC_IN_REC_MAGISK := true
+SHRP_EXCLUDE_MAGISK_FLASH := true
+
 PLATFORM_PATH := device/motorola/chef
 
 # Platform
