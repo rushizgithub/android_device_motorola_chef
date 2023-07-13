@@ -37,6 +37,8 @@ INC_IN_REC_ADDON_2 := true
 INC_IN_REC_ADDON_3 := true
 INC_IN_REC_ADDON_4 := true
 INC_IN_REC_MAGISK := true
+SHRP_LITE := true
+
 PLATFORM_PATH := device/motorola/chef
 
 # Platform
